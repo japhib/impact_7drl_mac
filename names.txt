@@ -1,0 +1,939 @@
+tigris
+white-tailed jackrabbit
+Galapagos sea lion
+ring dove
+masked booby
+black curlew
+drop bear
+jaguarundi
+cape clawless otter
+two-banded monitor
+myrmidon
+Eurasian beaver
+Burmese black mountain tortoise
+common turkey
+arctic tern
+common wallaroo
+violet-crested turaco
+griffin
+giant girdled lizard
+brown brocket
+American buffalo
+spirit
+slender-billed cockatoo
+blue-tongued lizard
+chuckwalla
+brush-tailed rat kangaroo
+sulfur-crested cockatoo
+American woodcock
+rufous-collared sparrow
+European badger
+white-rumped vulture
+chameleon
+glossy starling
+goanna lizard
+manticore
+purple grenadier
+European stork
+crested bunting
+rose-ringed parakeet
+llama
+chital
+bast
+kappa
+African fish eagle
+paradoxure
+African darter
+lesser mouse lemur
+fafnir
+large-eared bushbaby
+downy woodpecker
+blue-faced booby
+bush dog
+swamp deer
+North American river otter
+fork-tailed drongo
+small-clawed otter
+tokay gecko
+naga
+kori bustard
+tailless tenrec
+elegant crested tinamou
+hyrax
+kobold
+violet-eared waxbill
+anaconda
+oread
+sun gazer
+great horned owl
+blue-footed booby
+gargoyle
+long-tailed jaeger
+rufous tree pie
+brown antechinus
+crimson-breasted shrike
+sacred ibis
+white-faced whistling duck
+southern sea lion
+ring-necked pheasant
+red-capped cardinal
+woolly-necked stork
+greater flamingo
+white-winged dove
+carbuncle
+bird
+cereopsis goose
+superb starling
+Galapagos mockingbird
+red sheep
+saddle-billed stork
+fat-tailed dunnart
+agama lizard
+Canada goose
+mourning collared dove
+pocket gopher
+dryad
+common boubou shrike
+common zebra
+malay squirrel
+sable antelope
+hudsonian godwit
+barking gecko
+black-backed jackal
+common dolphin
+tawny eagle
+green vine snake
+white stork
+red meerkat
+southern right whale
+Burchell's gonolek
+African wild cat
+tropical buckeye butterfly
+African buffalo
+water monitor
+springhare
+ferruginous hawk
+Canadian river otter
+spectacled caiman
+madame white snake
+eastern box turtle
+four-striped grass mouse
+will-o-wisp
+river wallaby
+white-nosed coatimundi
+secretary bird
+horned lark
+royal tern
+white-necked stork
+house sparrow
+oriental white-backed vulture
+frog
+flying fox
+dark-winged trumpeter
+Galapagos hawk
+prairie falcon
+crab
+comb duck
+Galapagos tortoise
+lesser masked weaver
+arctic fox
+puku
+golden eagle
+land iguana
+crested barbet
+sally lightfoot crab
+banded mongoose
+common goldeneye
+chimpanzee
+ring-tailed lemur
+sociable weaver
+desert kangaroo rat
+hellhound
+coyote
+Azara's zorro
+osprey
+steenbok
+Indian tree pie
+gnome
+European wild cat
+bald eagle
+African jacana
+frilled dragon
+arboral spiny rat
+pine siskin
+mountain goat
+genoveva
+African bush squirrel
+red-cheeked cordon bleu
+roe deer
+swallow-tail gull
+hippopotamus
+Amazon parrot
+eastern cottontail rabbit
+pied avocet
+yellow baboon
+red and blue macaw
+raccoon dog
+southern brown bandicoot
+werejaguar
+chimera
+common seal
+white-mantled colobus
+roseat flamingo
+great white pelican
+siren
+little blue penguin
+rainbow lory
+silver-backed jackal
+Coke's hartebeest
+common nighthawk
+kelp gull
+North American porcupine
+laughing dove
+ground legaan
+Asian red fox
+cheetah
+wood pigeon
+wendigo
+horned puffin
+great egret
+sage hen
+black tortoise
+campo flicker
+cait sidhe
+vervet monkey
+griffon vulture
+jungle cat
+southern ground hornbill
+malabar squirrel
+devil
+greater rhea
+cockatrice
+Swainson's francolin
+gray langur
+marine iguana
+woylie
+common waterbuck
+southern lapwing
+platypus
+yellow-headed caracara
+pig-tailed macaque
+Hoffman's sloth
+little grebe
+spotted deer
+white-bellied sea eagle
+praying mantis
+monitor legaan
+black vulture
+northern phalarope
+four-horned antelope
+South American sea lion
+Gambel's quail
+California sea lion
+hottentot teal
+mallard
+oni
+arctic ground squirrel
+small-spotted genet
+skeleton
+feral rock pigeon
+scarlet macaw
+grey phalarope
+Nemean lion
+African porcupine
+nymph
+water moccasin
+eastern boa constrictor
+satyr
+black kite
+black-necked stork
+European beaver
+squirrel glider
+tsessebe
+sugar glider
+long-tailed spotted cat
+eastern diamondback rattlesnake
+curve-billed thrasher
+western grey kangaroo
+ovenbird
+mexican boa
+crested screamer
+salamander
+brown pelican
+red-headed woodpecker
+netted rock dragon
+large cormorant
+cattle egret
+striped hyena
+southern black-backed gull
+snowy sheathbill
+Thomson's gazelle
+green-backed heron
+Kirk's dik dik
+common zorro
+three-banded plover
+dingo
+white-tailed deer
+leprechaun
+crab-eating raccoon
+drake
+sockeye salmon
+musk ox
+African clawless otter
+small Indian mongoose
+fairy
+red-breasted nuthatch
+turtle
+black-cheeked waxbill
+margay
+great kiskadee
+scottish highland cow
+Richardson's ground squirrel
+cape cobra
+moose
+oriental short-clawed otter
+hanuman langur
+vine snake
+darwin ground finch
+Asian water buffalo
+blue duck
+Egyptian vulture
+chestnut weaver
+American marten
+pronghorn
+Grant's gazelle
+troll
+eastern quoll
+kongoni
+gila monster
+nilgai
+radiated tortoise
+tasmanian devil
+nyala
+black-fronted bulbul
+greylag goose
+oribi
+eastern grey kangaroo
+argalis
+sphinx
+chupacabra
+white rhinoceros
+white-lipped peccary
+brindled gnu
+fringe-eared oryx
+southern hairy-nosed wombat
+southern tamandua
+Asian lion
+Asian foreset tortoise
+sea birds
+earth dragon
+red howler monkey
+bare-faced go away bird
+blue and gold macaw
+yellow-rumped siskin
+red-necked phalarope
+wyvern
+mouflon
+ringtail
+mudskipper
+russian dragonfly
+black-eyed bulbul
+laughing kookaburra
+weeper capuchin
+snow goose
+ostrich
+javan gold-spotted mongoose
+echidna
+sarus crane
+desert tortoise
+tarantula
+mountain lion
+agile wallaby
+sidewinder
+bonnet macaque
+black-faced kangaroo
+red kangaroo
+grison
+sea serpent
+tayra
+arctic lemming
+black rhinoceros
+agouti
+wolf spider
+feathered serpent
+bateleur eagle
+crowned hawk-eagle
+bobcat
+greater adjutant stork
+tsuchinoko
+phantom cat
+Asian elephant
+mountain duck
+nile crocodile
+tarasque
+fairy penguin
+ouroboros
+eastern fox squirrel
+Australian brush turkey
+long-billed corella
+black-capped capuchin
+northern fur seal
+openbill stork
+Bennett's wallaby
+grizzly bear
+Verreaux's sifaka
+Madagascar fruit bat
+brown capuchin
+lapwing
+North American red fox
+timber wolf
+deva
+killer whale
+European shelduck
+kalahari scrub robin
+snowy egret
+monopod
+mermaid
+malleefowl
+pied butcher bird
+Indian porcupine
+giant armadillo
+bleeding heart monkey
+common brushtail possum
+small-toothed palm civet
+black-crowned night heron
+cuis
+vampire
+barrows goldeneye
+yellow mongoose
+long-nosed bandicoot
+American badger
+knob-nosed goose
+tengu
+lappet-faced vulture
+Pallas's fish eagle
+crab-eating fox
+rainbow serpent
+Denham's bustard
+impala
+black-tailed prairie dog
+herring gull
+Miner's cat
+common raccoon
+kraken
+striped dolphin
+white-browed sparrow weaver
+Australian sea lion
+mandras tree shrew
+ant
+arctic hare
+coqui partridge
+red-winged hawk
+red-billed hornbill
+rhesus macaque
+zorilla
+little cormorant
+western lowland gorilla
+common shelduck
+jungle kangaroo
+koala
+white-throated toucan
+chacma baboon
+hippogriff
+tanuki
+Indian red admiral
+American alligator
+red-shouldered glossy starling
+yellow-throated sandgrouse
+roan antelope
+lily trotter
+scaly-breasted lorikeet
+Galapagos albatross
+white-headed vulture
+pegasus
+butterfly
+Australian pelican
+Clark's nutcracker
+tiger snake
+reindeer
+common rhea
+gemsbok
+columbian rainbow boa
+polar bear
+jackalope
+basilisk
+black-winged stilt
+blue and yellow macaw
+pampa gray fox
+yellow-crowned night heron
+gray duiker
+South African hedgehog
+brown lemur
+North American beaver
+giant heron
+plains zebra
+trumpeter swan
+feathertail glider
+square-lipped rhinoceros
+red brocket
+nightmare
+gelada baboon
+cobra
+giant anteater
+common grenadier
+common langur
+nine-banded armadillo
+kitsune
+old world fruit bat
+hell hound
+little heron
+kaffir cat
+cyclops
+bent-toed gecko
+common mynah
+ghost
+giant
+great skua
+red-billed tropic bird
+cape raven
+American bighorn sheep
+African polecat
+African pied wagtail
+cougar
+whip-tailed wallaby
+Egyptian goose
+racer snake
+blackish oystercatcher
+baleen whale
+guerza
+red-legged pademelon
+long-crested hawk eagle
+red-breasted cockatoo
+white-throated monitor
+
+horned rattlesnake
+cerberus
+defassa waterbuck
+Asiatic jackal
+grey mouse lemur
+blue catfish
+mocking cliffchat
+black-collared barbet
+jaguar
+Mississippi alligator
+red squirrel
+bugbear
+pine snake
+black-throated cardinal
+rhesus monkey
+gaur
+suricate
+tree porcupine
+common wombat
+southern white-crowned shrike
+dusky gull
+green heron
+black-throated butcher bird
+pacific gull
+ghoul
+orca
+pine squirrel
+carpet python
+ogre
+common duiker
+blue racer
+black swan
+lesser double-collared sunbird
+western bearded dragon
+green-winged trumpeter
+blackbuck
+southern screamer
+dromedary camel
+dragon
+malagasy ground boa
+Madagascar hawk owl
+lava gull
+western patch-nosed snake
+dwarf
+puma
+blue wildebeest
+northern elephant seal
+mexican beaded lizard
+double-headed eagle
+ring-tailed possum
+Asiatic wild ass
+woodchuck
+Mongolian death worm
+red-winged blackbird
+Indian star tortoise
+eastern indigo snake
+nubian bee-eater
+wild water buffalo
+vicuna
+adouri
+barasingha deer
+snake-necked turtle
+gerenuk
+savanna fox
+kafue flats lechwe
+Cook's tree boa
+white-fronted bee-eater
+Indian jackal
+succubus
+sandhill crane
+greater blue-eared starling
+golden jackal
+emerald green tree boa
+antelope ground squirrel
+beisa oryx
+stick insect
+panther
+amarok
+peregrine falcon
+urial
+Eurasian red squirrel
+stanley crane
+common ringtail
+numbat
+swallow
+yellow-necked spurfowl
+Galapagos penguin
+collared lemming
+gray heron
+eleven-banded armadillo
+white tiger
+bushbuck
+magellanic penguin
+dvergr
+blacksmith plover
+steller sea lion
+red-knobbed coot
+bahama pintail
+red-tailed cockatoo
+white-throated kingfisher
+carmine bee-eater
+collared peccary
+currasow
+crowned eagle
+mara
+lindworm
+African lion
+native cat
+bontebok
+wattled crane
+palm squirrel
+white-throated robin
+striated heron
+greater kudu
+cape white-eye
+tammar wallaby
+kinkajou
+komodo dragon
+common long-nosed armadillo
+giant rat
+stone sheep
+tawny frogmouth
+grey-footed squirrel
+tiger
+African ground squirrel
+jabiru stork
+southern boubou
+faun
+western palm tanager
+white-winged black tern
+flightless cormorant
+coqui francolin
+Australian spiny anteater
+white-fronted capuchin
+waved albatross
+stanley bustard
+American crow
+valkyrie
+Smith's bush squirrel
+golden brush-tailed possum
+dassie
+lizard
+pied kingfisher
+American black bear
+white-necked raven
+glossy ibis
+carpet snake
+common wolf
+burrowing owl
+mule deer
+blue peacock
+lilac-breasted roller
+blue fox
+demon
+pygmy possum
+European spoonbill
+warthog
+spotted wood sandpiper
+pied crow
+African elephant
+sage grouse
+blue shark
+savannah deer
+blue-breasted cordon bleu
+ornate rock dragon
+African skink
+Andean goose
+python
+capybara
+yeti
+Australian masked owl
+Japanese macaque
+Indian mynah
+caracara
+wild boar
+boat-billed heron
+marabou stork
+eastern dwarf mongoose
+leopard
+South American puma
+blue mountains panther
+topi
+ring-tailed coatimundi
+werewolf
+tyrant flycatcher
+pied cormorant
+common genet
+hummingbird
+civet cat
+uinta ground squirrel
+incubus
+collared lizard
+cormorant
+Chilean flamingo
+groundhog
+blue tiger
+homonculus
+tiger cat
+giraffe
+long-finned pilot whale
+short-beaked echidna
+elk, wapiti
+genie
+goliath heron
+bengal vulture
+prehensile-tailed porcupine
+snake
+hippocamp
+meretseger
+Canadian tiger swallowtail butterfly
+common eland
+gulls
+South American meadowlark
+grey heron
+African wild dog
+African red-eyed bulbul
+cape wild cat
+silver-backed fox
+black-backed magpie
+blue-tongued skink
+grey lourie
+yellow-billed hornbill
+great cormorant
+silver gull
+savanna baboon
+civet
+field flicker
+dusky rattlesnake
+European red squirrel
+worm snake
+frilled lizard
+yellow-billed stork
+nelson ground squirrel
+honey badger
+Galapagos dove
+cape fox
+white-browed owl
+merlion
+emu
+least chipmunk
+buttermilk snake
+manatee
+bluecap
+cape barren goose
+underwater panther
+sasquatch
+American racer
+caracal
+giant otter
+woodrat
+purple moorhen
+golden-mantled ground squirrel
+springbok
+desert spiny lizard
+two-toed tree sloth
+red lava crab
+rock dove
+bohor reedbuck
+grey fox
+black and white colobus
+Burmese brown mountain tortoise
+little brown bat
+ennedi tiger
+rat king
+red-tailed wambenger
+salmon pink bird eater tarantula
+short-nosed bandicoot
+guanaco
+greater roadrunner
+naiad
+red-billed buffalo weaver
+Egyptian viper
+snowy owl
+puna ibis
+house crow
+monitor lizard
+greater sage grouse
+southern elephant seal
+Eurasian badger
+banshee
+narasimha
+brown hyena
+owlbear
+Steller's sea lion
+phoenix
+bottle-nose dolphin
+lamia
+white-winged tern
+black spider monkey
+helmeted guinea fowl
+magnificent frigate bird
+brush-tailed phascogale
+hoary marmot
+steenbuck
+gremlin
+little brown dove
+cactus cat
+centaur
+crown of thorns starfish
+wild turkey
+purple slug
+white-cheeked pintail
+cottonmouth
+cape starling
+long-necked turtle
+blue crane
+black-tailed tree creeper
+thirteen-lined squirrel
+paddy heron
+bat-eared fox
+euro wallaby
+yellow-brown sungazer
+Asian openbill
+African snake
+black bear
+red hartebeest
+American beaver
+demon cat
+golem
+black-capped chickadee
+Leadbeateri's ground hornbill
+meerkat
+black-tailed deer
+red-tailed hawk
+Indian giant squirrel
+bee-eater
+ring-tailed gecko
+turkey vulture
+Australian magpie
+olive baboon
+black-crowned crane
+white spoonbill
+red deer
+Indian leopard
+alpaca
+gerbil
+hydra
+long-tailed skua
+malachite kingfisher
+American bison
+Eurasian hoopoe
+minotaur
+king cormorant
+two-toed sloth
+Levaillant's barbet
+pale-throated three-toed sloth
+pale white-eye
+common melba finch
+yellow-bellied marmot
+brazilian tapir
+eastern white pelican
+serval
+neotropic cormorant
+long-billed cockatoo
+western pygmy possum
+gorgon
+crested porcupine
+red phalarope
+brazilian otter
+Asian water dragon
+painted stork
+slender loris
+tridude
+red-tailed phascogale
+javanese cormorant
+spur-winged goose
+common palm civet
+onager
+bushpig
+brown and yellow marshbird
+unicorn
+surrey puma
+toddy cat
+sambar
+wapiti elk
+ground monitor
+spotted-tailed quoll
+American virginia opossum
+blue waxbill
+sloth bear
+red-billed toucan
+dama wallaby
+beast of bodmin
+huron
+gecko
+springbuck
+harbor seal
+mexican wolf
+Indian peacock
+lesser flamingo
+four-spotted skimmer
+elemental
+bigfoot
+red-necked wallaby
+brolga crane
+ringtail cat
+seven-banded armadillo
+common pheasant
+brush-tailed bettong
+black-footed ferret
+goblin
+hoop snake
+green-winged macaw
+gray rhea
+potoroo
+magistrate black colobus
+African lynx
+common green iguana
+hawk-headed parrot
+white-faced tree rat
+fisher
+African black crake
+spotted hyena
+western spotted skunk
+emerald-spotted wood dove
+water legaan
+klipspringer
+blesbok
+lamassu
+roseate cockatoo
+striped skunk
+king vulture
+Asian false vampire bat
+Egyptian cobra
+sportive lemur
+caribou

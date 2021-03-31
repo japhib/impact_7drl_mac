@@ -1,0 +1,584 @@
+# This is the database of text commands.
+
+# Welcome commands are sent when you first play
+# as the given character.
+
+welcome::You1
+    You are an interdimensional traveller who have been jumping between
+    worlds with your sibling.  Recently, you became separated, so you have
+    more than idle curiosity driving you from world to world.
+
+    You arrive in this world to find a snowed in village, devoid of
+    any inhabitants.  You sense great evil, $(FOE), lurking ten floors
+    below and only the retrieval of $(PRIZE) from the depths will restore
+    balance to this realm.  While you hate to distract from the search for your
+    sibling, you know they would expect you to help where you can.
+
+    You have a wish stone you can throw to summon someone to join you
+    in the quest.
+
+    Press [F1] or [?] for keyboard help.
+
+welcome::Back
+    You return to your attempt to defeat $(FOE) and recover the $(PRIZE).
+
+    Good luck!
+
+fire::You
+    Hey!  That is you on the other side of that portal!
+
+# Game commands are the general overall commands.
+game::help
+    You are attempting to free the locals of this world from a dark
+    evil.  And maybe find your sibling on the side.
+
+    Put away your mouse!  This is keyboard only!
+
+    You can move with the number pad, arrow keys + PgUp/Dn + Home/End,
+    or with vi-style keys.  You can move and attack in 8 directions,
+    but so can your foes.
+
+       [q] - Elemental Burst
+       [e] - Elemental Skill
+       [r] - Range Attack
+       [x] - Look Around
+       [g] [,] - Pickup Item
+       [ ] - Wait One Turn
+       [c] [<] [>] - Climb
+       [i] - Inventory
+       [I] - Intrinsics
+       [a] [s] [d] [f] - Switch Party Leader
+       [Q] - Quit and Save
+       [O] [Esc] - Options
+       [?] [F1] - This Help
+
+
+game::lose
+    With the death of the last local, you have lost contact with
+    this world.  This dimension is now doomed to fall under the
+    dark sway of $(FOE).  You hope your sibling will understand
+    your failure.
+
+    Hit a key to try again.  There always is another version of
+    this world in the multiverse that needs saving.
+
+game::victory
+    With the recovery of the $(PRIZE), this dimension will be safe.
+    You can now move on to other dimensions in your quest to find
+    your sibling.
+
+    Congratulations!  You have won Rogue Impact!
+
+    Hit a key to make another attempt on a fresh dimension.
+
+victory::noheart
+    This protected isle fills you with peace.  You have the feeling
+    that if you could bring the source of corruption to this place,
+    you could purify this world.
+
+    Then, with this world saved, you could move on in search of your
+    sibling with a clear conscience.
+
+victory::heartchoice
+    You bring $(PRIZE) onto the isle.  Its malignant magics pulse in
+    response to the power of the spot.  You realize you have a choice.
+    You can seal this evil away, protecting this world.  Or dig deeper
+    into the evil, unlocking the next layer of horror.  Then, when
+    you destroy that, the multiverse will be that much safer.
+
+game::about
+    Rogue Impact was created by Jeff Lait.
+
+    If it seems similar to Genshin Impact (TM), that is very much
+    intended.
+
+    It's home on the web can be found at:
+    http://www.zincland.com/7drl/impact
+
+    The Chronicles of Doryen provide graphics:
+    http://doryen.eptalys.net/
+
+    Randomness courtesy of the Mersenne Twister:
+    http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/emt.html
+
+    Questions and comments can be sent to the author at
+    jmlait at gmail dot com.
+
+item::Running
+    Given a clear path you can outpace most foes by breaking into
+    a run.
+
+item::Hasted
+    Magical energies course through your veins, lending your movements
+    speed.
+
+item::Poisoned
+    Toxic chemicals destroy your body from the inside.  If you can
+    hold out long enough, you should eventually metabolize the poison
+    and recover.
+
+item::Resist
+    You skin tingles and you have no fear of $(ELEMENT).
+
+item::Vulnerable
+    You feel it would be very wise to keep far from $(ELEMENT)!
+
+item::Slow
+    The very air feels thick as you struggle to move at a normal pace.
+
+item::Sick
+    You feel very ill.  You will heal slowly and be harmed more from
+    injuries.
+
+item::Blinded
+    You cannot see.  You pray this is temporary.
+
+item::Enraged
+    You are enraged, unable to tell friend from foe.  Or maybe now
+    you can finally tell, and they are all foes?
+
+item::Regenerate
+    Your wounds knit before your eyes as your body regenerates its
+    injuries.
+
+item::Invulnerability
+    Nothing can touch you!  You are invincible!
+
+item::potion of speed
+    This energetic compound is filled with taurines, caffeines, and
+    amphetamines to get you moving in the morning.
+
+item::healing potion
+    A magical brew of herbs and essential oils that will accelerate the
+    healing process, closing wounds in minutes rather than days.
+
+item::greater healing potion
+    Dangerous alchemical research led to the concentration of the
+    healing potion into this potent brew.  It can take someone at
+    Death's Gate and get them ready for combat in just one swig.
+
+item::vial of acid vulnerability
+    The esters in this substance have been formulated to catalyse
+    the hydrolysis reactions that enable acids to eat through flesh.
+
+item::oil of acid resistance
+    This oil forms a protective sacrificial layer, preventing the
+    target from being harmed by acids.
+
+item::bottle of acid
+    The thickly stoppered bottle contains a powerful concentrated
+    acid.  Safety goggles and gloves must be worn while handling it!
+
+item::poison potion
+    The exact method by which this liquid inflicts devastating
+    internal damage isn't known.  But you don't have to understand
+    how it works to know why you shouldn't drink it.
+
+item::cure potion
+    A mixture of numerous anti-toxins and anti-venoms, this snake
+    oil is reputed to be able to cure everything but the common
+    cold.
+
+item::red potion
+    A vial of thick viscous red fluid that reminds you of clotted blood.
+
+item::yellow potion
+    It is a truth universally acknowledged, that an adventurer in
+    possession of a yellow potion, must be in want of healing.
+
+    So drink up!  It must be a healing potion.
+
+item::green potion
+    A vile smelling greenish substance clings to the wall of this bottle.
+
+item::blue potion
+    A translucent blue liquid with a surprisingly high index of refraction.
+    Perhaps if it could be rendered more transparent, one could use it
+    to produce some form of adaptive optics?  But in this time, drinking
+    or throwing are the choices.
+
+item::purple potion
+    The violet hue of this potion recalls the colour of kobolds, making
+    you wary of ingesting it.
+
+item::white potion
+    An optically thick potion containing a liquid of surprisingly low
+    density.  You almost could believe it was filled by a gas rather than a
+    fluid if judging by weight.
+
+item::glowing potion
+    Some ongoing reaction is causing this potion to shed a cold light.
+    Maybe if you drink enough of it, you could glow too?
+
+item::cyan potion
+    A rich saturated cyan solution fills this flask.
+
+item::ruby ring
+    A copper ring with a well-cut ruby glittering in the setting.
+
+item::sapphire ring
+    A brilliant blue saphire adorns this ring.  You wonder briefly
+    if Ba'zlbub cast his spell on this gem, for you seem to have great
+    difficulty in spelling it properly.
+
+item::gold ring
+    A plain gold ring, fortuitously already sized to one of your fingers.
+    With the current price of gold, you'd hate to have to pay for a resizing!
+
+item::amethyst ring
+    A wondrous purple amethyst is the center piece of this ring.  You wonder
+    if this world still considers amethyst a precious stone, as its beauty
+    deserves, or if the cold calculating hand of macroeconomics has reduced it
+    to mere semi-precious stature?
+
+item::diamond ring
+    This ring is studded with small, but well cut, diamonds.  Perfect
+    for scratching glass, so something to be careful of.
+
+item::ring of acid resist
+    This ring has a rather basic design which would be rejected by
+    a discerning fashionista.  But that is just the thing to fend off
+    acids!
+
+item::ring of ice resist
+    The ring emits a warm glow that keeps your fingers and toes toasty
+    even in the worst winter weather.
+
+item::ring of fire resist
+    A slight chill from the ring alerts you that it is hungry for heat
+    and will redirect fire to itself, reducing the amount that
+    scorches you.
+
+item::ring of poison resist
+    This ring chaffs at your finger, but does so as it is continuously
+    injecting the chemicals required to mitigate the effect of poison.
+
+item::ring of electric resist
+    The rubber ring proves its insulating properties by grounding you
+    from electric shocks.  Okay, that is a contradiction in effects,
+    but magic is always a balance of antipathy and sympathy.  If it
+    were logical, it wouldn't be magic!
+
+item::heart of Baezl'bub
+    The ice cold blackened heart of the demon that tormented this
+    realm.  You must now find a place to exorcise its vile magic
+    and restore this world to peace.
+
+item::corpse
+    The crumpled remains of a vanquished foe.  Might be good eating
+    on this, if you were hungry enough.
+
+item::body
+    Your eyes blur, tears springing unbidden.  Let not this sacrifice
+    be in vain!
+
+item::wish stone
+    This fist-sized rock glows a pleasing blue.  It is attuned to
+    astral energies and can pull the spirit of a being still closely
+    tied to this plane to aid you in your quest.
+
+    The activation is trivial: throw it, and an ally will be summoned
+    where it lands.
+
+item::portal stone
+    A hefty rock that glows with an orange energy.  You can sense it
+    is imbued with the sort of dimensional energy that allowed you to
+    cross between worlds - it likely can be used to open a portal
+    within this world given the right location.  You probably need to
+    throw it at a thick wall where the energy can stabilize.
+
+death::New Party
+    No one has returned from the dungeon.
+    
+    Those in the village decide to form a new party to find out what happened.
+    Or end the threat themselves.
+
+death::Another Chance
+    As $(MOB) falls to the ground, dead, they begin to glow from within.
+    The glow brightens and envelopes them.  When it recedes, they have
+    been restored to full health and are ready to continue on the quest.
+
+mob::rat
+    The cowardly rat scurries away from you.  Pesky dungeon nuisances,
+    you should corner it and dispatch it.  After all, how dangerous
+    could a cornered rat be?
+
+mob::tridude
+    A three legged green alien stares at you from its top mounted
+    triplex of eyes.  You cannot discern the alien intent behind its
+    non-expression; but experience suggests it does not plan on being
+    your friend.
+
+mob::kobold ice archer
+    This purple-furred humanoid has used its low wit to devise an
+    ice-infused bow that it uses to strike you from afar with ice
+    arrows.
+
+mob::kobold fire archer
+    Some research into kobolds claim that they are unintelligent and
+    have not mastered the art of fire.  Those researchers should
+    update their notes, for this kobold has a fire-infused bow that
+    they are using with great skill.
+
+mob::kobold poison archer
+    The dog-sized kobold is the vermin of dungeons. At least until
+    they acquire a ranged weapon.  This one has poisoned its arrows
+    to ensure your day does not end well.
+
+mob::kobold acid archer
+    The exact source of these kobolds supply of acid is not known.
+    Some suspect the milk of captive slugs.  Others ascribe the source
+    to secret chemical knowledge.  You just wish the acid arrows didn't
+    hurt so much.
+
+mob::kobold shock archer
+    A geared mechanism allows this kobold to spin some rabbit fur on
+    an amber arrowhead at great speed.  The resulting arrow is
+    charged with electric force sufficient to knock back a horse.
+
+mob::fire slug
+    This slow moving slug is engulfed in flames.  The flames do not
+    seem to burn it, but actually be part of it.
+
+mob::ice slug
+    Slugs are thought of as soft and organic, but the ice slug has
+    crystalized into hard planes and edges, making for a beautiful,
+    if dangerous, creature.
+
+mob::acid slug
+    The very rocks the slug slimes across hiss and vaporise with the
+    intensity of the slugs acid.  It is known slugs hate snails for
+    their shells, but to go to such lengths to reject calcium
+    carbonate?  It shows dedication.
+
+mob::poison slug
+    A single touch by this slug is enough to imbue a toxic collection
+    of poisons.  The bright green colour is to warn off predators.
+    So why then is it chasing you?  Does that mean you are naught but
+    prey to its eyestalks?
+
+mob::zap slug
+    This purple slug crackles with undischarged electric potential.
+    Its slime has been harvested to produce capacitors due to its
+    impressive dielectric constant.  Interesting trivia that doesn't
+    make the shock of making contact any more pleasant.
+
+mob::Beezlbub
+    Baez'lbub is most famous for casting a spell to make him
+    impervious to magic.  It was not quite successful, and just made
+    him impervious to spelling, so no one, not even the demon himself,
+    can spell Bae'zlbub's name correctly.
+
+mob::avatar
+    Your corporeal shell for adventuring in this realm. Treat it well!
+
+death::avatar
+    Your avatar falls to the ground, dying:
+
+    I have done what I can for this universe.  The people here will
+    have to complete the quest without me.  I shall move on in my search
+    for my sibling.
+
+chat::avatar
+    Your avatar speaks:
+
+    I came to this village to search for my sibling.  I found it empty,
+    but a great evil was nearby.  I hope to recruit locals from this
+    universe to eliminate the evil so I can go search for my sibling
+    knowing this realm is safe.
+
+mob::Kor Smith
+    A heavily muscled blacksmith who ran the village's forges before
+    the evil fell.
+
+death::Kor Smith
+    Kor Smith collapses to the ground.
+
+    I knew I should not have left the safety of the forge.  I only
+    hope this work unfinished can be finished by another.
+
+chat::Kor Smith
+    Kor Smith speaks wearily:
+
+    I'd rather be at my forge constructing tools to ease our harvest.
+    But these desperate times may require me to wield my hammer for
+    destruction rather than creation.  Let me know if you need me
+    on your side!  Unless there are rats.  Then you can leave me
+    behind.
+
+mob::Eliza Smith
+    Kor's wife, who would be quite annoyed at being described only
+    in relation to her husband, as she has her own unique and interesting
+    backstory.  Ironically, Smith was her maiden name as well.
+
+death::Eliza Smith
+    Eliza Smith exhales her last breath.
+
+    I have done what was right, so while I wished to see the world
+    freed of this evil, I have no regrets.
+
+chat::Eliza Smith
+    Eliza Smith speaks sternly:
+
+    Someone has to do something about the great evil below.  And
+    if I've learned one thing, there is no point waiting for "someone"
+    to step up.  Consider myself "someone" and let me know where
+    to help out.
+
+mob::Farmer Joe
+    It requires hard work and intelligence to be a successful farmer
+    in this remote village.  So why, instead of all those farmers, was it Joe
+    who answered the call of the wish stone?
+
+death::Farmer Joe
+    Farmer Joe staggers and falls to the earth.
+
+    Damnit!  This is what I git for messin' with thin's I needn't have
+    messed with!
+
+chat::Farmer Joe
+    Farmer Joe speaks with alcohol laden breath:
+
+    Why we have to be pokin' at these tunnels?  Can't we sit
+    back and sip something warming by the fire?  But if you wanna
+    go pokin', ol' Joe can poke some holes in any foe ya fear!
+
+    *hic*
+
+    Don't worry, the drink steadies my aim.
+
+mob::Timmy
+    Eliza and Kor's son, Timmy is supposed to become a blacksmith.  He'd
+    rather be exploring the woods and feeding pigeons.
+
+death::Timmy
+    The small body of Timmy falls and bleeds out.
+
+    NoooO!!  This is not fun!!  I wanna go home!
+
+chat::Timmy
+    Timmy speaks with the high tenor of youth:
+
+    Evil undead!  Chaotic Slimes!  Let me at them, I'll show them the
+    one-two Timmy attack!  Way better than hitting metal in a dark
+    forge at least.
+
+mob::Rodney Baker
+    Debbie's husband, who takes the term husband seriously as his job is
+    to husband the village's grain supplies.  He first found the mold that
+    presaged the end of the town.
+
+death::Rodney Baker
+    Rodney Baker breathes his last.
+
+    Go on... Each of us must do our part...  So long as the evil is cleansed
+    my death will not be in vain.
+
+chat::Rodney Baker
+    Rodney Baker speaks worriedly:
+
+    Something has turned our food supplies.  I think the source is the
+    evil that has opened into our peaceful valley.  Please let me aid
+    in the cleansing of this evil.
+
+mob::Debbie Baker
+    The town baker whose bread's fame brings people from afar.
+
+death::Debbie Baker
+    Debbie Baker crumples into a heap, her last energies spent.
+
+    Now I think I know what yeast feels like when it is placed in the oven.
+    If it is our time to rise, we'll rise.  But it seems it is not time
+    for me.
+
+chat::Debbie Baker
+    Debbie Baker speaks with resignation:
+
+    I can't bake bread without good flour.  So until the evil that
+    taints our flour is fixed, I might as well join you in the fixing!
+
+mob::T'losh
+    An undead lich who was largely blamed for an evil that befell
+    the world.  And usually is guilty thereof.  In this case something
+    deeper is at work, and T'losh does not appreciate competition for
+    the most evil person in the world.
+
+death::T'losh
+    T'losh's body vibrates and vanishes, but not before a last word.
+
+    Bah, this weak form has failed me.  Back to the phylactery!
+
+chat::T'losh
+    T'losh speaks, disdain dripping with each syllable:
+
+    Petty humans, still clinging to the rituals of eating and
+    defecating.  My necromantic servants are free of such constraints,
+    you should join them!  But in any case, this is all a distraction
+    to my research so I'll be willing to aid you in dealing with the
+    vermin.
+
+mob::Treska
+    Treska of the Seven Alphabets is famed through the multiverse for
+    her erudite knowledge.  But her prudish character means she has
+    few friends.  It is rumoured she was involved with impropriety on
+    her home world that sent her wandering the multiverse.  It is also
+    rumoured the impropriety was holding hands out of wedlock.
+
+death::Treska
+    Treska shimmers and fades away.
+
+    Thank you for the excellent data!  Seems like my connection here has
+    weakened too much.  It has been fun, so please ask me again!
+
+chat::Treska
+    Treska attempts to speak down to your level:
+
+    Such an interesting study potential!  The opportunities to learn
+    from this rift cannot be understated.  It is unfortunate that the
+    denizens seem uniformly hostile, I'd love to make contact.
+
+    But I'd really like to collect any data I can, so let me know
+    how I can help the party.
+
+mob::Elder Krall
+    The ancient elder of the village.  When things go wrong, he was always
+    the last to go investigate.  But usually he got the job done.
+
+death::Elder Krall
+    The elder falls prone, his breath failing.
+
+    It is time to pass the torch to the next generation.  I've attempted to
+    record my wisdom in books; so I hope you will read them now that I'm not
+    around to lecture!
+
+chat::Elder Krall
+    The village elder, Krall, dispenses his wisdom:
+
+    As the town's elder it is my role to remember what went before so
+    we can avoid the mistakes of yesteryear.  There really are no
+    priors for this sort of problem, however.  The closest I recall
+    was an apocryphal tale of folks trapped in a village like this.
+    I recall the solution then was violence.  I fear that is the
+    solution this time too.  While I do not enjoy engaging in the
+    last refuge of the incompetent, select my place and I will aid.
+
+mob::Al'kami
+    A merchant who commonly frequented the village.  Her chemical wares
+    were of great demand, especially by Debbie who would use them to
+    augment her baking.  Baking is just applied chemistry, after all.
+
+death::Al'kami
+    Al'kami speaks her last words:
+
+    It seems I shall not be saving this village...  I will
+    miss Debbie's baking.  Made the journey here profitable despite
+    what my accountant kept telling me.
+
+chat::Al'kami
+    The merchant, Al'kami, speaks:
+
+    I often visited this town, when the pass was not snowed in, to
+    sell my various compounds and mixtures.  To see it under the
+    influence of evil is disheartening - my future profits are in
+    jeopardy!  I shall use my chemical mixtures to set things astraight.
+

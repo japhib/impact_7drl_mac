@@ -1,0 +1,5 @@
+Here are the changes since the 7DRL release.
+
+7DRL Release
+
+- It is what it is!
