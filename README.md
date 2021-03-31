@@ -1,8 +1,28 @@
+This is my port of Rogue Impact by [Jeff Lait](https://jmlait.itch.io) to mac.
+
+https://jmlait.itch.io/rogue-impact
+
+http://www.zincland.com/7drl/impact
+
+To build & run it, first init submodules:
+
+```
+git submodule update --init
+```
+
+Then cd into the `./mac` directory and run this:
+
+```
+./build.sh && ./impact_7drl
+```
+
+---
+
+> Original readme:
+
 Welcome to Rogue Impact!
 
-===========================
-  ABOUT
-===========================
+## ABOUT
 
 Rogue Impact was written in seven days, as part of the Seven Day 
 Roguelike Challenge.
@@ -16,9 +36,7 @@ Roguelike Challenge.
     to this realm.  While you hate to distract from the search for your
     sibling, you know they would expect you to help where you can.
 
-===========================
-  HOW TO START
-===========================
+## HOW TO START
 
 If you are a windows user, run it from windows/impact.exe.
 
@@ -29,9 +47,7 @@ If you are a source diver, go into the src directory.
 Look for BUILD.TXT files to try and guide you, there is one under
 each of the porting subdirectories.
 
-===========================
-  HOW TO PLAY
-===========================
+## HOW TO PLAY
 
 Rogue Impact varies from traditional roguelikes in being party based.
 However, like Genshin Impact, only one member of the party is on the
@@ -39,18 +55,14 @@ field, so control is very similar to a traditional single player
 roguelike, the big difference being you can swap your current active
 player.
 
-===========================
-  CUSTOMIZING 
-===========================
+## CUSTOMIZING 
 
 If you don't like the default font, you can change it!
 
 Go to the windows directory and replace terminal.png with another font
 compatible with The Doryen Library.
 
-===========================
-  GAME DESIGN MESSAGE
-===========================
+## GAME DESIGN MESSAGE
 
 If this seems similar to Genshin Impact, it is not an accident.  Which
 is not to say Genshin Impact is the original source of these concepts,
@@ -108,9 +120,7 @@ to the trash-item problem.  But I can't help but think of Everything
 is Fodder and what the long-term consequences of this
 hyper-commodification are.  
 
-===========================
-  CREDITS
-===========================
+## CREDITS
 
 This is a Seven Day Roguelike.  It was written in a 168 hour time
 frame.  Hopefully it doesn't feel like that was the case, however.
@@ -120,8 +130,6 @@ for graphical output.
 
 You can contact Jeff Lait at: jmlait [snail] gmail [dot] com.
 
-===========================
-  FINAL IMPORTANT NOTE
-===========================
+## FINAL IMPORTANT NOTE
 
 Have fun!
