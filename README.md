@@ -4,6 +4,8 @@ https://jmlait.itch.io/rogue-impact
 
 http://www.zincland.com/7drl/impact
 
+This build depends on CMake. To install it, run `brew install cmake`
+
 To build & run it, first init submodules:
 
 ```
