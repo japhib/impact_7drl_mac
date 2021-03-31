@@ -17,6 +17,7 @@
 #include "mygba.h"
 #include "thread.h"
 #include <thread>
+#include <memory>
 
 class THREAD_STD : public THREAD
 {

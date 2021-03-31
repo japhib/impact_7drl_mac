@@ -14,6 +14,14 @@
 
 #ifdef LINUX
 #include <dirent.h>
+
+    #ifdef __APPLE__
+        #include <sys/syslimits.h>
+        #define PATH_MAX_LENGTH PATH_MAX
+    #else
+        #define PATH_MAX_LENGTH NAME_MAX
+    #endif
+
 #else
 #include <windows.h>
 #endif
@@ -38,7 +46,7 @@ public:
 protected:
 #ifdef LINUX
     DIR			*myDir;
-    char		 myLastPath[NAME_MAX + 1];
+    char		 myLastPath[PATH_MAX_LENGTH + 1];
 
 #else
     WIN32_FIND_DATA	myData;

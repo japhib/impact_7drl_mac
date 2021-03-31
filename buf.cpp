@@ -19,9 +19,12 @@
 #include <string.h>
 #include <stdio.h>
 #include <ctype.h>
-#include <malloc.h>
 #include "thread.h"
 #include "rand.h"
+
+#ifndef __APPLE__
+#include <malloc.h>
+#endif
 
 ATOMIC_INT32		glbBufferCount;
 ATOMIC_INT32		glbLeakedStringCount;
